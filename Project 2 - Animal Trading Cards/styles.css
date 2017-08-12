@@ -1,0 +1,63 @@
+/* add your CSS here */
+
+
+/* Card */
+
+body {
+	border-style: outset;
+	border-color: #dd5e0f;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 305px;
+	padding: 5px;
+}
+
+#info {
+	border-style: solid;
+	border-color: #ed8f55;
+	padding-left: 5px;
+	padding-right: 5px;
+	background-color: #f4dfd2;
+	border-radius: 15px;
+}
+
+h3 {
+	color: #ed8f55;
+}
+
+
+/* Picture */
+
+img {
+	width: 300px;
+}
+
+
+ /* Fact - Caption underneath Picture */
+
+#fact {
+	font-style: italic;
+	font-size: 11px;
+	color: #cc5612;
+}
+
+
+ /* List */
+
+li span { 
+	font-weight: bold;
+}
+
+ul {
+	list-style-type: none;
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+
+
+/* Text Styling */
+
+.text {
+	text-align: center;
+}
+
