@@ -6,7 +6,7 @@ Master the skills required to become a Front-End Web Developer, and start buildi
 
 ## Course Layout
 
-#### 1. Web Foundations
+### 1. Web Foundations
 1.01 Nanodegree Orientation A  
 1.02 Career Services Available to You  
 1.03 Learning Online & Getting Help  
@@ -20,9 +20,10 @@ Master the skills required to become a Front-End Web Developer, and start buildi
 1.11 Why Responsive?  
 1.12 Starting Small  
 1.13 Building Up  
-1.14 Making Sites Responsive: Resume Site on Mobile  
+1.14 Making Sites Responsive: Resume Site on Mobile 
+
    
-#### 2. JavaScript Foundations
+### 2. JavaScript Foundations
 2.01 What is JavaScript?  
 2.02 Data Types & Variables  
 2.03 Conditionals  
@@ -42,8 +43,9 @@ Master the skills required to become a Front-End Web Developer, and start buildi
 2.17 Working With Remotes  
 2.18 Working On Another Developer's Repository  
 2.19 Staying In Sync With a Remote Repository  
+
    
-#### 3. Intermediate JavaScript
+### 3. Intermediate JavaScript
 
 3.01 The Basics: the DOM, $, and Selectors  
 3.02 The Tricks: DOM Manipulation  
@@ -69,7 +71,8 @@ Master the skills required to become a Front-End Web Developer, and start buildi
 3.22 Writing Test Suites  
 3.23 PROJECT: Feed Reader Testing  
 
-#### 4. Advanced JS
+
+### 4. Advanced JS
 
 4.01 Creating Promises  
 4.02 Chaining Promises  
