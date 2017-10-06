@@ -6,9 +6,11 @@ Master the skills required to become a Front-End Web Developer, and start buildi
 
 ## Course Layout
 
-### 1. Web Foundations  
-  1.01 Nanodegree Orientation A  
-      Front-End Nanodegree  
+
+### 1. Web Foundations 
+  <dl>
+  <dt>1.01 Nanodegree Orientation A</dt> 
+      <dd>Front-End Nanodegree<dd> 
       A Brief History of The Web  
       The Web Never Breaks  
       Problem Solving Strategies   
@@ -34,15 +36,16 @@ Master the skills required to become a Front-End Web Developer, and start buildi
       HTML Documents in Depth  
       Wrap Up  
   1.05 HTML Syntax Problem Set  
-1.06 [PROJECT: Mockup to Article](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%201%20-%20Mockup%20to%20Article)  
-1.07 CSS Syntax  
-1.08 CSS Syntax Problem Set  
-1.09 How to Write Code Faster  
-1.10 [PROJECT: Animal Trading Cards](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%202%20-%20Animal%20Trading%20Cards)  
-1.11 Why Responsive?  
-1.12 Starting Small  
-1.13 Building Up  
-1.14 Making Sites Responsive: Resume Site on Mobile 
+  1.06 [PROJECT: Mockup to Article](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%201%20-%20Mockup%20to%20Article)  
+  1.07 CSS Syntax  
+  1.08 CSS Syntax Problem Set  
+  1.09 How to Write Code Faster  
+  1.10 [PROJECT: Animal Trading Cards](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%202%20-%20Animal%20Trading%20Cards)  
+  1.11 Why Responsive?  
+  1.12 Starting Small  
+  1.13 Building Up  
+  1.14 Making Sites Responsive: Resume Site on Mobile  
+  </dl>
 
    
 ### 2. JavaScript Foundations
