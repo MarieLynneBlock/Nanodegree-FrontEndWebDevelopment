@@ -12,8 +12,9 @@ Master the skills required to become a Front-End Web Developer, and start buildi
 1.03 Learning Online & Getting Help  
 1.04 HTML Syntax  
 1.05 HTML Syntax Problem Set  
-1.06 PROJECT: Mockup to Article  
-1.07 CSS Syntax  
+1.06 PROJECT: Mockup to Article 
+1.06 [PROJECT: Mockup to Article](https://www.google.com)  
+1.07 CSS Syntax  
 1.08 CSS Syntax Problem Set  
 1.09 How to Write Code Faster  
 1.10 PROJECT: Animal Trading Cards  
