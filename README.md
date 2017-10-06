@@ -15,13 +15,13 @@ Master the skills required to become a Front-End Web Developer, and start buildi
       The Web Never Breaks  
       Problem Solving Strategies  
   <em><strong> 1.02 Career Services Available to You </em></strong>  
-        Meet the Careers Team  
-        Your Udacity Profile  
-  1.03 Learning Online & Getting Help  
-      Connecting with your community  
+      Meet the Careers Team  
+      Your Udacity Profile  
+  <em><strong> 1.03 Learning Online & Getting Help </em></strong>  
+      Connecting with your community  
       Support from the Udacity Team  
       Final Tips  
-  1.04 HTML Syntax  
+  <em><strong> 1.04 HTML Syntax </em></strong>  
       Introduction  
       HTML Structure I  
       QUIZ: Elements  
@@ -35,8 +35,8 @@ Master the skills required to become a Front-End Web Developer, and start buildi
       HTML Structure II  
       HTML Documents in Depth  
       Wrap Up  
-  1.05 HTML Syntax Problem Set  
-  1.06 [PROJECT: Mockup to Article](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%201%20-%20Mockup%20to%20Article)  
+  <em><strong> 1.05 HTML Syntax Problem Set </em></strong>  
+  <em><strong> 1.06 [PROJECT: Mockup to Article](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%201%20-%20Mockup%20to%20Article) </em></strong> 
   1.07 CSS Syntax  
   1.08 CSS Syntax Problem Set  
   1.09 How to Write Code Faster  
