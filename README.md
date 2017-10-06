@@ -24,9 +24,9 @@ Master the skills required to become a Front-End Web Developer, and start buildi
       Support from the Udacity Team  
       Final Tips  
       
-  <em><strong> 1.04 HTML Syntax </em></strong>  
-      Introduction  
-      HTML Structure I  
+  <em><strong> 1.04 HTML Syntax </em></strong>  
+      Introduction  
+      HTML Structure I  
       QUIZ: Elements  
       Environments  
       Text Editors  
