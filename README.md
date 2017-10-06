@@ -36,15 +36,15 @@ Master the skills required to become a Front-End Web Developer, and start buildi
       HTML Documents in Depth  
       Wrap Up  
   <em><strong> 1.05 HTML Syntax Problem Set </em></strong>  
-  <em><strong> 1.06 [PROJECT: Mockup to Article](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%201%20-%20Mockup%20to%20Article) </em></strong> 
-  1.07 CSS Syntax  
-  1.08 CSS Syntax Problem Set  
-  1.09 How to Write Code Faster  
-  1.10 [PROJECT: Animal Trading Cards](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%202%20-%20Animal%20Trading%20Cards)  
-  1.11 Why Responsive?  
-  1.12 Starting Small  
-  1.13 Building Up  
-  1.14 Making Sites Responsive: Resume Site on Mobile  
+  <em><strong> 1.06 [PROJECT: Mockup to Article](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%201%20-%20Mockup%20to%20Article) </em></strong>  
+  <em><strong> 1.07 CSS Syntax </em></strong>  
+  <em><strong> 1.08 CSS Syntax Problem Set </em></strong>  
+  <em><strong> 1.09 How to Write Code Faster </em></strong>  
+  <em><strong> 1.10 [PROJECT: Animal Trading Cards](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%202%20-%20Animal%20Trading%20Cards) </em></strong>  
+  <em><strong> 1.11 Why Responsive? </em></strong>  
+  <em><strong> 1.12 Starting Small </em></strong>   
+  <em><strong> 1.13 Building Up </em></strong>   
+  <em><strong> 1.14 Making Sites Responsive: Resume Site on Mobile </em></strong>  
 
    
 ### 2. JavaScript Foundations
