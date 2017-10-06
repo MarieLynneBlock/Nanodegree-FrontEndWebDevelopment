@@ -44,4 +44,5 @@ Master the skills required to become a Front-End Web Developer, and start buildi
    2.19 Staying In Sync With a Remote Repository  
    
 ### 3. Intermediate JavaScript
+
 ### 4. Advanced JS
