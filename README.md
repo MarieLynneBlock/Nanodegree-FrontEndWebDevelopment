@@ -23,6 +23,7 @@ Master the skills required to become a Front-End Web Developer, and start buildi
   1.13 Building Up
   1.14 Making Sites Responsive: Resume Site on Mobile
   
+  
 #### 2. JavaScript Foundations
   2.01 What is JavaScript?
 #### 3. Intermediate JavaScript
