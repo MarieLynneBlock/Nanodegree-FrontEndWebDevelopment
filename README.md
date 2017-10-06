@@ -16,7 +16,7 @@ Master the skills required to become a Front-End Web Developer, and start buildi
 1.07 CSS Syntax  
 1.08 CSS Syntax Problem Set  
 1.09 How to Write Code Faster  
-1.10 [PROJECT: Animal Trading Cards] (https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%202%20-%20Animal%20Trading%20Cards)  
+1.10 [PROJECT: Animal Trading Cards](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%202%20-%20Animal%20Trading%20Cards)  
 1.11 Why Responsive?  
 1.12 Starting Small  
 1.13 Building Up  
