@@ -6,7 +6,7 @@ Master the skills required to become a Front-End Web Developer, and start buildi
 
 ## Course Layout
 
-### 1. Web Foundations
+#### 1. Web Foundations
 1.01 Nanodegree Orientation A  
 1.02 Career Services Available to You  
 1.03 Learning Online & Getting Help  
@@ -22,7 +22,7 @@ Master the skills required to become a Front-End Web Developer, and start buildi
 1.13 Building Up  
 1.14 Making Sites Responsive: Resume Site on Mobile  
    
-### 2. JavaScript Foundations
+#### 2. JavaScript Foundations
 2.01 What is JavaScript?  
 2.02 Data Types & Variables  
 2.03 Conditionals  
@@ -43,30 +43,30 @@ Master the skills required to become a Front-End Web Developer, and start buildi
 2.18 Working On Another Developer's Repository  
 2.19 Staying In Sync With a Remote Repository  
    
-### 3. Intermediate JavaScript
+#### 3. Intermediate JavaScript
 
-3.01 The Basics: the DOM, $, and Selectors
-3.02 The Tricks: DOM Manipulation
-3.03 Event Listeners with JQuery
-3.04 PROJECT: Pixel Art Maker
-3.05 Scopes
-3.06 Closures
-3.07 The 'this' Keyword
-3.08 Prototype Chains
-3.09 Object Decorator Pattern
-3.10 Functional Classes
-3.11 Prototypal Classes
-3.12 Pseudoclassical Patterns
-3.13 Superclass and Subclasses
-3.14 Pseudoclassical Subclasses
-3.15 PROJECT: Memory Game
-3.16 Writing READMEs
-3.17 Functions
-3.18 Built-ins
-3.19 Professional Developer-fu
-3.20 PROJECT: Classic Arcade Game Clone
-3.21 Rethinking Testing
-3.22 Writing Test Suites
-3.23 PROJECT: Feed Reader Testing
+3.01 The Basics: the DOM, $, and Selectors  
+3.02 The Tricks: DOM Manipulation  
+3.03 Event Listeners with JQuery  
+3.04 PROJECT: Pixel Art Maker  
+3.05 Scopes  
+3.06 Closures  
+3.07 The 'this' Keyword  
+3.08 Prototype Chains  
+3.09 Object Decorator Pattern  
+3.10 Functional Classes  
+3.11 Prototypal Classes  
+3.12 Pseudoclassical Patterns  
+3.13 Superclass and Subclasses  
+3.14 Pseudoclassical Subclasses  
+3.15 PROJECT: Memory Game  
+3.16 Writing READMEs  
+3.17 Functions  
+3.18 Built-ins  
+3.19 Professional Developer-fu  
+3.20 PROJECT: Classic Arcade Game Clone  
+3.21 Rethinking Testing  
+3.22 Writing Test Suites  
+3.23 PROJECT: Feed Reader Testing  
 
-### 4. Advanced JS
+#### 4. Advanced JS
