@@ -8,20 +8,32 @@ Master the skills required to become a Front-End Web Developer, and start buildi
 
 1. Web Foundations  
   1.01 Nanodegree Orientation A  
-      ―― Front-End Nanodegree  
-      ―― A Brief History of The Web  
-      ―― The Web Never Breaks  
-      ―― Problem Solving Strategies   
+      ― Front-End Nanodegree  
+      ― A Brief History of The Web  
+      ― The Web Never Breaks  
+      ― Problem Solving Strategies   
   1.02 Career Services Available to You  
-      ⋅ Meet the Careers Team  
-      ⋅ Your Udacity Profile  
+      ― Meet the Careers Team  
+      ― Your Udacity Profile  
   1.03 Learning Online & Getting Help  
-      ⋅ Connecting with your community  
-      ⋅ Support from the Udacity Team  
-      ⋅ Final Tips  
-  
-#### 1.04 HTML Syntax  
-1.05 HTML Syntax Problem Set  
+      ― Connecting with your community  
+      ― Support from the Udacity Team  
+      ― Final Tips  
+  1.04 HTML Syntax  
+      ― Introduction  
+      ― HTML Structure I  
+      ― QUIZ: Elements  
+      ― Environments  
+      ― Text Editors  
+      ― Browsers  
+      ― Workflow  
+      ― Trees  
+      ― HTML and Trees  
+      ― QUIZ: Debugging  
+      ― HTML Structure II  
+      ― HTML Documents in Depth  
+      ― Wrap Up  
+  1.05 HTML Syntax Problem Set  
 1.06 [PROJECT: Mockup to Article](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%201%20-%20Mockup%20to%20Article)  
 1.07 CSS Syntax  
 1.08 CSS Syntax Problem Set  
