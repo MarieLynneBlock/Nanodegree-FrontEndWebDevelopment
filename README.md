@@ -17,8 +17,8 @@ Master the skills required to become a Front-End Web Developer, and start buildi
   <em><strong> 1.02 Career Services Available to You </em></strong>  
       Meet the Careers Team  
       Your Udacity Profile  
-  <em><strong> 1.03 Learning Online & Getting Help </em></strong>  
-      Connecting with your community  
+  <em><strong> 1.03 Learning Online & Getting Help </em></strong>  
+      Connecting with your community  
       Support from the Udacity Team  
       Final Tips  
   <em><strong> 1.04 HTML Syntax </em></strong>  
