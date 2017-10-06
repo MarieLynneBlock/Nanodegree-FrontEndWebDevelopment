@@ -9,7 +9,7 @@ Master the skills required to become a Front-End Web Developer, and start buildi
 
 ### 1. Web Foundations 
   <dl>
-  <dt>1.01 Nanodegree Orientation A</dt>
+  <em><strong>1.01 Nanodegree Orientation A<em><strong>
   <dd>Front-End Nanodegree</dd>
   <dd>A Brief History of The Web</dd>
   <dd>The Web Never Breaks</dd>
