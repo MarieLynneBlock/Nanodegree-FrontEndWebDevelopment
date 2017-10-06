@@ -70,3 +70,21 @@ Master the skills required to become a Front-End Web Developer, and start buildi
 3.23 PROJECT: Feed Reader Testing  
 
 #### 4. Advanced JS
+
+4.01 Creating Promises  
+4.02 Chaining Promises  
+4.03 Ajax with XHR  
+4.04 Ajax with JQuery  
+4.05 Ajax with Fetch  
+4.06 Changing Expectations  
+4.07 Refactoring with Separation of Concerns  
+4.08 Using an Organization Library  
+4.09 Learning a New Codebase  
+4.10 Getting Started with the APIs  
+4.11 Understanding API Services  
+4.12 Using the APIs in Practice  
+4.13 PROJECT: Neighborhood Map  
+4.14 Features of Single Page Apps  
+4.15 Examine a Framework's Source  
+4.16 Angular  
+4.17 Ember  
