@@ -10,13 +10,13 @@ Master the skills required to become a Front-End Web Developer, and start buildi
 ### 1. Web Foundations 
   <dl>
   <dt>1.01 Nanodegree Orientation A</dt>
-  <dd>Front-End Nanodegree<dd>
-  <dd>A Brief History of The Web</dd>
-  <dd>The Web Never Breaks</dd>
-  <dd>Problem Solving Strategies</dd> 
+    Front-End Nanodegree  
+    A Brief History of The Web  
+    The Web Never Breaks  
+    Problem Solving Strategies  
   <dt>1.02 Career Services Available to You</dt>
-      Meet the Careers Team  
-      Your Udacity Profile  
+    Meet the Careers Team  
+    Your Udacity Profile  
   1.03 Learning Online & Getting Help  
       Connecting with your community  
       Support from the Udacity Team  
