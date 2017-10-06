@@ -24,24 +24,24 @@ Master the skills required to become a Front-End Web Developer, and start buildi
    
 ### 2. JavaScript Foundations
    2.01 What is JavaScript?  
-   2.02 Data Types & Variables
-   2.03 Conditionals
-   2.04 Loops
-   2.05 Functions
-   2.06 Arrays
-   2.07 Objects
-   2.08 Syntax
-   2.09 PROJECT: Portfolio Site
-   2.10 Shell Workshop
-   2.11 What is Version Control?
-   2.12 Create a Git Repo
-   2.13 Review a Repo's History
-   2.14 Add Commits to a Repo
-   2.15 Tagging, Branching, and Merging
-   2.16 Undoing Changes
-   2.17 Working With Remotes
-   2.18 Working On Another Developer's Repository
-   2.19 Staying In Sync With a Remote Repository
+   2.02 Data Types & Variables  
+   2.03 Conditionals  
+   2.04 Loops  
+   2.05 Functions  
+   2.06 Arrays  
+   2.07 Objects  
+   2.08 Syntax  
+   2.09 PROJECT: Portfolio Site  
+   2.10 Shell Workshop  
+   2.11 What is Version Control?  
+   2.12 Create a Git Repo  
+   2.13 Review a Repo's History  
+   2.14 Add Commits to a Repo  
+   2.15 Tagging, Branching, and Merging  
+   2.16 Undoing Changes  
+   2.17 Working With Remotes  
+   2.18 Working On Another Developer's Repository  
+   2.19 Staying In Sync With a Remote Repository  
    
 ### 3. Intermediate JavaScript
 ### 4. Advanced JS
