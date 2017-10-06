@@ -8,11 +8,13 @@ Master the skills required to become a Front-End Web Developer, and start buildi
 
 ### 1. Web Foundations
 1.01 Nanodegree Orientation A  
-  * Front-End Nanodegree  
-  * A Brief History of The Web  
-  * The Web Never Breaks  
-  * Problem Solving Strategies  
+  Front-End Nanodegree  
+  A Brief History of The Web  
+  The Web Never Breaks  
+  Problem Solving Strategies  
+  
 1.02 Career Services Available to You  
+
 1.03 Learning Online & Getting Help  
 1.04 HTML Syntax  
 1.05 HTML Syntax Problem Set  
