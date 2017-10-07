@@ -54,7 +54,7 @@ Master the skills required to become a Front-End Web Developer, and start buildi
   
   <em><strong> 1.06 [PROJECT: Mockup to Article](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%201%20-%20Mockup%20to%20Article) </em></strong>  
   
-  <em><strong> 1.07 CSS Syntax </em></strong>
+  <em><strong> 1.07 CSS Syntax </em></strong>  
       Getting Started with CSS  
       What is CSS  
       QUIZ: CSS or HTML?  
