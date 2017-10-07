@@ -54,7 +54,25 @@ Master the skills required to become a Front-End Web Developer, and start buildi
   
   <em><strong> 1.06 [PROJECT: Mockup to Article](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%201%20-%20Mockup%20to%20Article) </em></strong>  
   
-  <em><strong> 1.07 CSS Syntax </em></strong>  
+  <em><strong> 1.07 CSS Syntax </em></strong>
+      Getting Started with CSS  
+      What is CSS  
+      QUIZ: CSS or HTML?  
+      CSS Rulesets  
+      QUIZ: CSS Syntax  
+      Comments  
+      QUIZ: Tag Selectors  
+      Attributes and Selectors  
+      QUIZ: Using Selectors  
+      QUIZ: Using CSS References  
+      Developer Tools  
+      Developer Tools on Different Browsers  
+      QUIZ: Using Developer Tools  
+      CSS Units  
+      QUIZ: Units in CSS  
+      CSS Colors  
+      QUIZ: Identifying Colors  
+      Outro  
   
   <em><strong> 1.08 CSS Syntax Problem Set </em></strong>  
   
