@@ -39,7 +39,18 @@ Master the skills required to become a Front-End Web Developer, and start buildi
       HTML Documents in Depth  
       Wrap Up  
       
-  <em><strong> 1.05 HTML Syntax Problem Set </em></strong>  
+  <em><strong> 1.05 HTML Syntax Problem Set </em></strong>
+      Welcome to the Problem Set
+      Make a Button
+      Udacity Front End Feedback Extention
+      QUIZ: Make all the Headers
+      QUIZ: Make a list
+      Quiz: Tree to HTML
+      Constructing Links
+      QUIZ: Add an Image
+      a Guide to Paths
+      QUIZ: Figures
+      Mockup to Website
   
   <em><strong> 1.06 [PROJECT: Mockup to Article](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%201%20-%20Mockup%20to%20Article) </em></strong>  
   
