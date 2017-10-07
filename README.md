@@ -41,8 +41,8 @@ Master the skills required to become a Front-End Web Developer, and start buildi
       
   <em><strong> 1.05 HTML Syntax Problem Set </em></strong>  
       Welcome to the Problem Set  
-      Make a Button  
-      Udacity Front End Feedback Extention  
+      Make a Button  
+      Udacity Front End Feedback Extention  
       QUIZ: Make all the Headers  
       QUIZ: Make a list  
       Quiz: Tree to HTML  
