@@ -75,7 +75,16 @@ Master the skills required to become a Front-End Web Developer, and start buildi
       Outro  
   
   <em><strong> 1.08 CSS Syntax Problem Set </em></strong>  
-  
+      Welcome to the Problem Set  
+      QUIZ: Style an Image  
+      QUIZ: Style the Font  
+      QUIZ: Writing Selectors  
+      QUIZ: Using Attributes  
+      QUIZ: Slack Card  
+      QUIZ: Udacity Site Header  
+      What is a Stylesheet?  
+      QUIZ: Link to a Stylesheet  
+      
   <em><strong> 1.09 How to Write Code Faster </em></strong>  
   
   <em><strong> 1.10 [PROJECT: Animal Trading Cards](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%202%20-%20Animal%20Trading%20Cards) </em></strong>  
