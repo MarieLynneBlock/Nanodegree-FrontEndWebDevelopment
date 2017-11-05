@@ -55,6 +55,6 @@ else if (room === "ballroom" &&  suspect === "Mr. Kalehoff") {
     solved = true;
 }
 
-if (solved = true) {
+if (solved) {
     console.log(suspect + " did it in the " + room + " with the " + weapon + "!");
 }
