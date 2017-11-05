@@ -1,5 +1,5 @@
 /*
-QUIZ: 
+QUIZ 1: 
 
 Write an if..else statement that:
 prints "even" if the number is an even number
