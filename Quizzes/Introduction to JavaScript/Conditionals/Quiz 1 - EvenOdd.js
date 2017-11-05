@@ -1,7 +1,7 @@
 /*
 QUIZ 1: 
 
-Write an if..else statement that:
+Write an if...else statement that:
 prints "even" if the number is an even number
 prints "odd" if the number is an odd number
 */
