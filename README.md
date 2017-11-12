@@ -27,9 +27,26 @@ The Nanodegree is broken up into 4 main chapters:
   - Objects
 
   ### 3. Intermediate JavaScript
+  - DOM, DOM Manipulation
+  - $
+  - Selectors
+  - Event Listeners, JQuery
+  - Scopes
+  - Closures
+  - Keyword "this"
+  - Prototype Chains
+  - Object Decorator Pattern
+  - Functional & Prototypal Classes
+  - Pseudoclassical Patterns
+  - Superclass and Subclasses, Pseudoclassical Subclasses
+  - ES6 Functions & Classes
+  - Build-ins: Sets, Maps, Proxies, Generators, Iteration,...
+  - ES6 - ES5: Polyfills & transpiling
+  - Jasmine, writing tests & Test Suites (including asynchronous code)
+  
   ### 4. Advanced JavaScript
 
   #### Also Covered:
-     - Unix Shell
-     - Version Control
-     - Git & GitHub
+  - Unix Shell
+  - Version Control
+  - Git & GitHub, READMEs
