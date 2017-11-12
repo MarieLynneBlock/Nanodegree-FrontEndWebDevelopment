@@ -10,14 +10,14 @@ In the map "Documents" you can find a file "syllabus & Learning Outcomes", here 
 The Nanodegree is broken up into 4 main chapters:
 
 
-  #### 1. Web Foundations
+  ### 1. Web Foundations
   - HTML  
   - CSS  
   - Bootstrap  
   - Responsive Design  
   - Mobile First
      
-  #### 2. JavaScript Foundations
+  ### 2. JavaScript Foundations
   - JavaScript: History & Syntax  
   - Data Types & Variables  
   - Conditionals  
@@ -26,10 +26,10 @@ The Nanodegree is broken up into 4 main chapters:
   - Arrays  
   - Objects
 
-  #### 3. Intermediate JavaScript
-  #### 4. Advanced JavaScript
+  ### 3. Intermediate JavaScript
+  ### 4. Advanced JavaScript
 
-  ##### Also Covered:
+  #### Also Covered:
      - Unix Shell
      - Version Control
      - Git & GitHub
