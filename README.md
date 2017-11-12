@@ -11,11 +11,11 @@ The Nanodegree is broken up into 4 main chapters:
 
 
   #### 1. Web Foundations
-    HTML  
-    CSS  
-    Bootstrap  
-    Responsive Design  
-    Mobile First
+  - HTML  
+  - CSS  
+  - Bootstrap  
+  - Responsive Design  
+  - Mobile First
      
   #### 2. JavaScript Foundations
     JavaScript: History & Syntax
