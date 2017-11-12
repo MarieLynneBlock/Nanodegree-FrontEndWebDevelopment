@@ -2,9 +2,6 @@
 ##### Create Stunning User Experiences
 Master the skills required to become a Front-End Web Developer, and start building beautiful, responsive websites optimized for mobile and desktop performance.
 
-After Finishing the Front-End Nanodegree I won a Google Developers Challenge Scholarship:
-![alt text](https://github.com/MarieLynneBlock/GoogleDeveloperChallengeScholarship-MobileWeb/blob/master/Google-Dev-EMEA-Badge.png)
-
 
 ## Course Layout
 
@@ -63,3 +60,20 @@ The Nanodegree is broken up into 4 main chapters:
   - Unix Shell
   - Version Control
   - Git & GitHub, READMEs
+
+
+------------
+
+## After Graduating
+
+After Finishing the Front-End Nanodegree I won a Google Developers Challenge Scholarship for the "Mobile Web Specialist" track offered by Google.
+
+a graduate of this program will be job-ready for Mobile Web Developer roles. In addition, he/she will be fully prepared to earn the [Google Mobile Web Specialist Certification](https://github.com/MarieLynneBlock/GoogleDeveloperChallengeScholarship-MobileWeb), offered directly by Google.
+
+Challenge: develop offline-first web applications using Service Workers and IndexedDB. 
+
+![alt text](https://github.com/MarieLynneBlock/GoogleDeveloperChallengeScholarship-MobileWeb/blob/master/Google-Dev-EMEA-Badge.png)
+
+
+
+
