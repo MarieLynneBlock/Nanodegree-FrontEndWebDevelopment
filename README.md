@@ -11,5 +11,5 @@ In the map "Documents" you can find a file "syllabus & Learning Outcomes", here 
 
   #### 1. Web Foundations
   #### 2. Introduction to JavaScript
-  #### 3. Intermediate JavaScript
+  #### 3. Intermediate JavaScript
   #### 4. Advanced JavaScript
