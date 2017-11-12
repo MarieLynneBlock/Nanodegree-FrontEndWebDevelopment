@@ -27,10 +27,11 @@ The Nanodegree is broken up into 4 main chapters:
   - Objects
 
   ### 3. Intermediate JavaScript
+  - JQuery
   - DOM, DOM Manipulation
   - $
   - Selectors
-  - Event Listeners, JQuery
+  - Event Listeners
   - Scopes
   - Closures
   - Keyword "this"
