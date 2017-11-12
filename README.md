@@ -6,7 +6,8 @@ Master the skills required to become a Front-End Web Developer, and start buildi
 
 ## Course Layout
 
-In the map "Documents" you can find a file "syllabus & Learning Outcomes", here you can read all about the attainment targets of this Nanodegree program.
+In the map "Documents" you can find a file "syllabus & Learning Outcomes", here you can read all about the attainment targets of this Nanodegree program and on which learning goals the projects focus.
+The Nanodegree is broken up into 4 main chapters:
 
 
   #### 1. Web Foundations
