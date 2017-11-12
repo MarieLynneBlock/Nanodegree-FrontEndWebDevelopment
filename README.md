@@ -13,7 +13,7 @@ The Nanodegree is broken up into 4 main chapters:
   ### 1. Web Foundations
   - HTML  
   - CSS  
-  - Bootstrap  
+  - Bootstrap  
   - Responsive Design   
   - Mobile First
      
