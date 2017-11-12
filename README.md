@@ -2,6 +2,8 @@
 ##### Create Stunning User Experiences
 Master the skills required to become a Front-End Web Developer, and start building beautiful, responsive websites optimized for mobile and desktop performance.
 
+After Finishing the Front-End Nanodegree I won a Google Developers Challenge Scholarship:
+![alt text](https://github.com/MarieLynneBlock/GoogleDeveloperChallengeScholarship-MobileWeb/blob/master/Google-Dev-EMEA-Badge.png)
 
 
 ## Course Layout
