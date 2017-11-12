@@ -55,6 +55,8 @@ The Nanodegree is broken up into 4 main chapters:
   - Angular
   - Ember
 
+  
+  
   #### Also Covered:
   - Unix Shell
   - Version Control
