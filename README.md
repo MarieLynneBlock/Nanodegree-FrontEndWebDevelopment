@@ -11,6 +11,25 @@ The Nanodegree is broken up into 4 main chapters:
 
 
   #### 1. Web Foundations
+     - HTML
+     - CSS
+     - Bootstrap
+     - Responsive Design
+     - Mobile First
+     
   #### 2. JavaScript Foundations
+     - JavaScript: History & Syntax
+     - Data Types & Variables
+     - Conditionals
+     - Loops
+     - Funtions
+     - Arrays
+     - Objects
+
   #### 3. Intermediate JavaScript
   #### 4. Advanced JavaScript
+
+  ##### Also Covered:
+     - Unix Shell
+     - Version Control
+     - Git & GitHub
