@@ -55,11 +55,10 @@ The Nanodegree is broken up into 4 main chapters:
   - Ember
 
   
-  ----------
-  #### Also Covered:
-  - Unix Shell
-  - Version Control
-  - Git & GitHub, READMEs
+    #### Also Covered:
+    - Unix Shell
+    - Version Control
+    - Git & GitHub, READMEs
 
 
 ------------
