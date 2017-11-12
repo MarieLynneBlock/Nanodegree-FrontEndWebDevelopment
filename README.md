@@ -46,6 +46,14 @@ The Nanodegree is broken up into 4 main chapters:
   - Jasmine, writing tests & Test Suites (including asynchronous code)
   
   ### 4. Advanced JavaScript
+  - Creating & Chaining Promises
+  - Ajax (with XHR; jQuery; Fetch)
+  - MV* organizational framework
+  - BackboneJS
+  - APIs
+  - Single Page Apps
+  - Angular
+  - Ember
 
   #### Also Covered:
   - Unix Shell
