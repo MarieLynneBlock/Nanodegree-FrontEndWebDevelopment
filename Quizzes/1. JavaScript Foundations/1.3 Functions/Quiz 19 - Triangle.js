@@ -16,6 +16,8 @@ Returns:
 * * * * * * * * 
 * * * * * * * * * 
 * * * * * * * * * *
+
+
 We've given you one function makeLine() to start with. The function takes in a line length, and builds a line of asterisks and returns the line with a newline character.
 
   function makeLine(length) {
@@ -41,6 +43,7 @@ function makeLine(length) {
     return line + "\n";
 }
 
+// Build Triangle
 function buildTriangle(width) {
   var triangle = "";
   
@@ -50,5 +53,6 @@ function buildTriangle(width) {
   }
 }
 
+
 // test your code by uncommenting the following line
-//console.log(buildTriangle(10));
+console.log(buildTriangle(10));
