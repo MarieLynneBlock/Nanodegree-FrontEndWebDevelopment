@@ -1,5 +1,5 @@
 /*
-QUIZ 24:
+QUIZ 25:
 
 Directions:
 Starting with this array of prices, change the prices of the 1st, 3rd, and 7th elements in the array.
