@@ -47,7 +47,7 @@ The Nanodegree is broken up into 4 main chapters:
   ### 4. Advanced JavaScript
   - Creating & Chaining Promises
   - Ajax (with XHR; jQuery; Fetch)
-  - MV* organizational framework
+  - MV* organizational frameworks
   - BackboneJS
   - APIs
   - Single Page Apps
