@@ -67,9 +67,9 @@ The Nanodegree is broken up into 4 main chapters:
 
 After Finishing the Front-End Nanodegree I won a Google Developers Challenge Scholarship for the "Mobile Web Specialist" track offered by Google.
 
-a graduate of this program will be job-ready for Mobile Web Developer roles. In addition, he/she will be fully prepared to earn the [Google Mobile Web Specialist Certification](https://github.com/MarieLynneBlock/GoogleDeveloperChallengeScholarship-MobileWeb), offered directly by Google.
+a graduate of this program will be job-ready for Mobile Web Developer (creating PWAs) roles. In addition, he/she will be fully prepared to earn the [Google Mobile Web Specialist Certification](https://github.com/MarieLynneBlock/GoogleDeveloperChallengeScholarship-MobileWeb), offered directly by Google.
 
-Challenge: develop offline-first web applications using Service Workers and IndexedDB. 
+Challenge: develop offline-first, progressive web applications using Service Workers and IndexedDB. 
 
 ![alt text](https://github.com/MarieLynneBlock/GoogleDeveloperChallengeScholarship-MobileWeb/blob/master/Google-Dev-EMEA-Badge.png)
 
