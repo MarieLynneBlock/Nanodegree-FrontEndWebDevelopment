@@ -53,6 +53,8 @@ The Nanodegree is broken up into 4 main chapters:
   - Single Page Apps
   - Angular
   - Ember
+  
+  ### 5. Build with React
 
 
 #### Also Covered:
