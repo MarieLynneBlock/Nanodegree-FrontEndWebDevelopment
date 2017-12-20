@@ -1,0 +1,91 @@
+
+/* General */
+
+body {
+  padding: 30px;
+}
+
+
+/* Header */
+
+#name,
+#job-title {
+  margin-top: 3px;
+  text-align: right;
+}
+
+#name {
+  color: #2C3E50;
+  letter-spacing: 2px;
+}
+
+#job-title {
+  color: #128f76;
+}
+
+
+/* Portfolio */
+
+.project-img {
+  padding-bottom: 50px;
+}
+
+.portfolio {
+  color: #aaa;
+  letter-spacing: 2px;
+  padding-bottom: 40px;
+  padding-top: 30px;
+}
+
+.project {
+  color: #2C3E50;
+  text-align: center;
+}
+
+.project-title {
+  color: #2C3E50;
+  text-transform: uppercase;
+}
+
+.project-link {
+  color: #128f76;
+  font-size: 0.8em;
+}
+
+
+
+/* --------------------------------------------------------------------------------------------- */
+
+/* Respnsive Design */
+
+
+/* smaller screens - change header */
+
+@media only screen and (max-width: 992px) {
+  #profile-pic {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  } 
+
+  #name,
+  #job-title {
+    text-align: right;
+  }
+}  
+
+@media only screen and (max-width: 780px) {
+   #profile-pic {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  #name,
+  #job-title {
+    text-align: center;
+  }
+}
+
+
+
