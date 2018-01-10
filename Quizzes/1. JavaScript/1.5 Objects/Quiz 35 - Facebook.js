@@ -1,4 +1,6 @@
 /*
+PROGRAMMING QUIZ: FACEBOOK (7-4)
+
 Create an object called facebookProfile. The object should have 3 properties:
 
 your name
