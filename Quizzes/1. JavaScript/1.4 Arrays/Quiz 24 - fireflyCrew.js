@@ -2,7 +2,9 @@
 QUIZ 24:
 
 The space western TV drama Firefly premiered in the United States on September 20, 2002.
-Although the show only featured fourteen episodes and was canceled during its first season, it continues to remain popular today with a growing fan base. In the show, the captain Mal, played by Nathan Fillion, leads a crew of renegades on the spaceship Serenity.
+Although the show only featured fourteen episodes and was canceled during its first season,
+it continues to remain popular today with a growing fan base. In the show, the captain Mal,
+played by Nathan Fillion, leads a crew of renegades on the spaceship Serenity.
 
 Directions:
 Create an array called crew to organize the Serenity’s crew and set it equal to the variables below .
