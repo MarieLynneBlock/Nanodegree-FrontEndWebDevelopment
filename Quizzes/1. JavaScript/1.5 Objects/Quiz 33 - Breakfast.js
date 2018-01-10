@@ -1,4 +1,6 @@
 /*
+PROGRAMMING QUIZ: BREAKFAST (7-2)
+
 Create a breakfast object to represent the following menu item:
 
 The Lumberjack - $9.95
