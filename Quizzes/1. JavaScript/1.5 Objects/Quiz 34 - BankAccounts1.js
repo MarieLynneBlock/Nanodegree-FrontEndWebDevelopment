@@ -1,4 +1,6 @@
 /*
+PROGRAMMING QUIZ: BANK ACCOUNT 1 (7-3)
+
  Using the given object:
 
 var savingsAccount = {
