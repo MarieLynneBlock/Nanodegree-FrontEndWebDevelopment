@@ -1,4 +1,6 @@
 /*
+PROGRAMMING QUIZ: UMBRELLA (7-1)
+
 Using the umbrella example from the previous lesson, see if you can follow the example open() method and create the close()
 method. It's alright if you have trouble at first! We'll go into more detail later in this lesson.
 
