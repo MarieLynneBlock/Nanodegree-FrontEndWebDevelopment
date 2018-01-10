@@ -1,5 +1,5 @@
 /*
-PROGRAMMING QUIZ: DONUTS REVISITED (7-5)
+QUIZ 36: DONUTS REVISITED (7-5)
 
 Here is an array of donut objects.
 
