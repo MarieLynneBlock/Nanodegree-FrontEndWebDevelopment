@@ -6,15 +6,21 @@ Master the skills required to become a Front-End Web Developer, and start buildi
 ## Course Layout
 
 In the map "Documents" you can find a file "syllabus & Learning Outcomes", here you can read all about the attainment targets of this Nanodegree program and on which learning goals the projects focus.
-The Nanodegree is broken up into 4 main chapters:
+The Nanodegree is broken up into 5 main chapters:
 
 
   ### 1. Web Foundations
   - HTML  
   - CSS  
+  - How to write code faster & shortcuts
   - Bootstrap  
   - Responsive Design   
   - Mobile First
+
+_projects_:
+  - [Mockup to Article](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%201%20-%20Mockup%20to%20Article)
+  - [Animal Trading Cards](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%202%20-%20Animal%20Trading%20Cards)
+  - [Portfolio Website](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%203%20-%20Portfolio%20Website)
      
   ### 2. JavaScript Foundations
   - JavaScript: History & Syntax  
