@@ -22,7 +22,7 @@ _projects_:
   - [Animal Trading Cards](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%202%20-%20Animal%20Trading%20Cards)
   - [Portfolio Website](https://github.com/MarieLynneBlock/Nanodegree-FrontEndWebDevelopment/tree/master/Project%203%20-%20Portfolio%20Website)
      
-  ### 2. JavaScript Foundations
+  ### 2. JavaScript
   - JavaScript: History & Syntax  
   - Data Types & Variables  
   - Conditionals  
@@ -30,8 +30,17 @@ _projects_:
   - Funtions  
   - Arrays  
   - Objects
+  - ES6
+  - The Document Object Model (DOM)
+  - DOM Manipulation / Creating Content with JavaScript
+  - Browser Events
+  - Performance
 
-  ### 3. Intermediate JavaScript
+_projects_:
+  - Pixel Art Maker
+  - Memory Game
+
+  ### 3. JavaScript: OOP, tools & Testing
   - JQuery
   - DOM, DOM Manipulation
   - $
@@ -50,7 +59,7 @@ _projects_:
   - ES6 - ES5: Polyfills & transpiling
   - Jasmine, writing tests & Test Suites (including asynchronous code)
   
-  ### 4. Advanced JavaScript
+  ### 4. Front-End Applications
   - Creating & Chaining Promises
   - Ajax (with XHR; jQuery; Fetch)
   - MV* organizational frameworks
@@ -60,7 +69,7 @@ _projects_:
   - Angular
   - Ember
   
-  ### 5. Build with React
+  ### 5. Building with React
 
 
 #### Also Covered:
