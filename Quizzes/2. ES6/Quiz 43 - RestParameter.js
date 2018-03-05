@@ -11,7 +11,6 @@ average(7, 1432, 12, 13, 100) should return 312.8
 average() should return 0
 */
 
-
 function average(...nums) {
     let x = 0;
     for (const num of nums) {
