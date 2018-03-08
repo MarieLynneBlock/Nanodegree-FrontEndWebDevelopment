@@ -11,7 +11,7 @@ The Nanodegree is broken up into 5 main chapters:
 
   ### 1. Web Foundations
   - HTML  
-  - CSS  
+  - CSS  (including flexbox)
   - How to write code faster & shortcuts
   - Bootstrap  
   - Responsive Design   
