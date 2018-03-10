@@ -42,7 +42,7 @@ var shirtSleeve = 8.71;
 // Small
 if ((shirtWidth >= 18 && shirtWidth < 20)
     && (shirtLength >= 28 && shirtLength < 29)
-    && shirtSleeve >= 8.13 && shirtSleeve < 8.38) {
+    && (shirtSleeve >= 8.13 && shirtSleeve < 8.38)) {
     console.log("S");
 }
 
