@@ -37,8 +37,8 @@ _projects_:
   - Performance
 
 _projects_:
+  - [Memory Game](https://github.com/MarieLynneBlock/web-memory-game.git)
   - Pixel Art Maker
-  - Memory Game
 
   ### 3. JavaScript: OOP, tools & Testing
   - JQuery
