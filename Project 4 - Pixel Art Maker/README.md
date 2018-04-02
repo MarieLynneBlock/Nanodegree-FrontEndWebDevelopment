@@ -9,10 +9,11 @@ Now test it! When you're done, you should be able to create a canvas of any size
 
 Note: To complete Pixel Art Maker, you must be using the current version of Edge, Firefox, or Chrome. Due to implementation differences, this exercise does not work effectively in Safari or Opera.
 
-#### Udacity Style Guides
+
+##### Udacity Style Guides:
 The starter contains basic styling, but feel free to style the app as you please! You should write your code and markup to meet the specifications provided in these style guides:
 
-[CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
-[HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-[JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
-[Git Style Guide](https://udacity.github.io/git-styleguide/)
+- [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
+- [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
+- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
+- [Git Style Guide](https://udacity.github.io/git-styleguide/)
