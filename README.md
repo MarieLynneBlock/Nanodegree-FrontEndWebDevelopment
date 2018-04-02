@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nanodegree-FrontEndWebDevelopment
 ##### Create Stunning User Experiences
 Master the skills required to become a Front-End Web Developer, and start building beautiful, responsive websites optimized for mobile and desktop performance.
@@ -93,3 +94,22 @@ Challenge: develop offline-first, progressive web applications using Service Wor
 
 
 
+||||||| merged common ancestors
+=======
+# Pixel Art Maker Project
+
+## Table of Contents
+
+* [Instructions](#instructions)
+* [Contributing](#contributing)
+
+## Instructions
+
+To get started, open `designs.js` and start building out the app's functionality.
+
+For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+
+## Contributing
+
+This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+>>>>>>> 435e17f81a8a0daddd397f8083cef2f774ef91d4
