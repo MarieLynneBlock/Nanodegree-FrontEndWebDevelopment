@@ -27,7 +27,7 @@ _projects_:
   - Data Types & Variables  
   - Conditionals  
   - Loops  
-  - Funtions  
+  - Functions  
   - Arrays  
   - Objects
   - ES6
